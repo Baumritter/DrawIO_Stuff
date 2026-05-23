@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" version="29.6.3">
   <diagram name="Page-1" id="7-C3C0MTsYJN3mklHAE3">
-    <mxGraphModel dx="1384" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CbpXHZAzieputpjHQbmu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Enkindle&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="330" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="Disintegrate, Pyre, Living Flame, Azure Strike and Firestorm now deal an addtional 20% of their damage as fire damage over 8s." vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="Disintegrate, Pyre, Living Flame, Azure Strike and Firestorm now deal an addtional 20% of their damage as fire over 8s." vertex="1">
           <mxGeometry height="120" width="200" x="330" y="120" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Essence Well" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="CbpXHZAzieputpjHQbmu-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Wildfire&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="660" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="FB dot ticks have a 5% chance to launch embers, dealing fire damage, to a nearby target, preferring high health targets. If no valid target is present they instead hit the original target." vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath ticks have a 5% chance to launch embers, dealing fire damage, to a nearby target, preferring high health targets. If no valid target is present they instead hit the original target." vertex="1">
           <mxGeometry height="120" width="200" x="660" y="300" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontSize=14;fontStyle=1" value="&lt;span&gt;Stoking the Flames&lt;/span&gt;" vertex="1">
@@ -87,6 +87,90 @@
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;" value="Casting an Empower causes all your Enkindles to deal 200% more damage for the next 6s. If this effect is already active then fully extend it instead." vertex="1">
           <mxGeometry height="120" width="200" x="330" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Enkindle&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1250" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="&amp;nbsp;Verdant Embrace, Emerald Blossom, Reversion and Living Flame now deal an addtional 20% of their healing as fire over 8s. Also applies to all spells retriggered by Echo." vertex="1">
+          <mxGeometry height="120" width="200" x="1250" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Essence Well" vertex="1">
+          <mxGeometry height="40" width="200" x="1140" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting Dream Breath grants you Essence Burst." vertex="1">
+          <mxGeometry height="120" width="200" x="1140" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;font&gt;Trailblazer / Shape of Flame&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Hover and Deep Breath travel 40% faster. Hover travels 40% further.&lt;div&gt;/&lt;/div&gt;&lt;div&gt;Tail Swipe and Wing Buffet scorch enemies and blind them with ash, causing their next attack within 4 sec to miss.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="920" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;span&gt;Conduit of Flame&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Increases critical strike chance by up to 15%, based on the current health of your target. Works like Mastery: Giantslayer" vertex="1">
+          <mxGeometry height="120" width="200" x="920" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;span&gt;Titanic Precision&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Living Flame and Azure Strike have 1 extra chance to trigger Essence Burst when they critically strike.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="920" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Lifebinder&#39;s Rush" vertex="1">
+          <mxGeometry height="40" width="200" x="1140" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting Essence spells grants you 2.5% Haste for 5s stacking up to 5. Gaining a stack refreshes the duration of all stacks." vertex="1">
+          <mxGeometry height="120" width="200" x="1140" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Burning Essence" vertex="1">
+          <mxGeometry height="40" width="200" x="1140" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Consuming Essence Burst&amp;nbsp; grants you an additional stack of Lifebinder&#39;s Rush and Lifebinder&#39;s Rush stack count is increased to 10." vertex="1">
+          <mxGeometry height="120" width="200" x="1140" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Intense Flames" vertex="1">
+          <mxGeometry height="40" width="200" x="1360" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="All your fire DoT effects have 20% increased critical healing" vertex="1">
+          <mxGeometry height="120" width="200" x="1360" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Final Spark" vertex="1">
+          <mxGeometry height="40" width="200" x="1360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="When any of your DoT effects expires it flares up dealing damage to its target. If a target dies with an active DoT it instead explodes dealing damage split between all targets within 8y." vertex="1">
+          <mxGeometry height="120" width="200" x="1360" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Life Cinders / &lt;br&gt;Draconic Instincts&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1360" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.&lt;div&gt;&lt;br&gt;&lt;div&gt;Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="1360" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Wildfire&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1580" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Dream Breath ticks have a 5% chance to launch embers to a nearby target, healing them. This prefers low health targets. If no valid target is present they instead hit the original target." vertex="1">
+          <mxGeometry height="120" width="200" x="1580" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontSize=14;fontStyle=1" value="&lt;span&gt;Stoking the Flames&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1580" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Hitting targets affected by Dream Breath has a 5% chance to trigger Wildfire. Increased to 10% if the trigger was a red spell" vertex="1">
+          <mxGeometry height="120" width="200" x="1580" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;font&gt;Seeking Embers&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1580" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Wildfire embers spread Enkindles and Fire Breath to the target for the remaining duration" vertex="1">
+          <mxGeometry height="120" width="200" x="1580" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mastery over Flames&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1250" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;" value="Casting an Empower causes all your Enkindles to deal 200% more damage for the next 6s. If this effect is already active then fully extend it instead." vertex="1">
+          <mxGeometry height="120" width="200" x="1250" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
