@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" version="29.6.3">
   <diagram name="Page-1" id="7-C3C0MTsYJN3mklHAE3">
-    <mxGraphModel dx="1628" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Final Spark" vertex="1">
           <mxGeometry height="40" width="200" x="1360" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="When any of your DoT effects expires it flares up healing its target. If a target falls below 30% with an active DoT it instead gets healed immediately." vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="When any of your DoT effects expires it flares up healing its target. If a target falls below 30% with an active DoT it instead gets healed immediately. Can only happen once per DoT instance." vertex="1">
           <mxGeometry height="120" width="200" x="1360" y="480" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Life Cinders / &lt;br&gt;Draconic Instincts&lt;/span&gt;" vertex="1">
