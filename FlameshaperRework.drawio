@@ -43,7 +43,7 @@
         <mxCell id="CbpXHZAzieputpjHQbmu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Burning Essence" vertex="1">
           <mxGeometry height="40" width="200" x="220" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Consuming Essence Burst&amp;nbsp; grants you an additional stack of Lifebinder&#39;s Rush and Lifebinder&#39;s Rush stack count is increased to 10." vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Consuming Essence Burst grants you an additional stack of Lifebinder&#39;s Rush and Lifebinder&#39;s Rush stack count is increased to 10." vertex="1">
           <mxGeometry height="120" width="200" x="220" y="660" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Intense Flames" vertex="1">
@@ -64,22 +64,22 @@
         <mxCell id="CbpXHZAzieputpjHQbmu-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.&lt;div&gt;&lt;br&gt;&lt;div&gt;Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="440" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Wildfire&lt;/span&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Seeking Embers" vertex="1">
           <mxGeometry height="40" width="200" x="660" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath ticks have a 5% chance to launch embers, dealing fire damage, to a nearby target, preferring high health targets. If no valid target is present they instead hit the original target." vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Enkindle ticks have a 5% chance to launch embers, dealing fire damage, to a nearby target, preferring high health targets. If no valid target is present they instead hit the original target." vertex="1">
           <mxGeometry height="120" width="200" x="660" y="300" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontSize=14;fontStyle=1" value="&lt;span&gt;Stoking the Flames&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="660" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Hitting targets affected by Fire Breath has a 5% chance to trigger Wildfire. Increased to 10% if the trigger was a red spell" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Hitting targets affected by Enkindle has a 5% chance to trigger Seeking Embers. Increased to 10% if the trigger was Fire Breath or Pyre" vertex="1">
           <mxGeometry height="120" width="200" x="660" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;font&gt;Seeking Embers&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;font&gt;Wildfire&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="660" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Wildfire embers spread Enkindles and Fire Breath to the target for the remaining duration" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Seeking Embers trigger Enkindle on the target for 150% of their damage." vertex="1">
           <mxGeometry height="120" width="200" x="660" y="660" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mastery over Flames&lt;/span&gt;" vertex="1">
@@ -91,7 +91,7 @@
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Enkindle&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="1250" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="&amp;nbsp;Verdant Embrace, Emerald Blossom, Reversion and Living Flame now deal an addtional 20% of their healing as fire over 8s. Also applies to all spells retriggered by Echo." vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="&amp;nbsp;Verdant Embrace, Emerald Blossom, Reversion and Living Flame now deal an addtional 20% of their damage or healing as fire over 8s. Also applies to all spells retriggered by Echo." vertex="1">
           <mxGeometry height="120" width="200" x="1250" y="120" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Essence Well" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Intense Flames" vertex="1">
           <mxGeometry height="40" width="200" x="1360" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="All your fire DoT effects and Dream Breath have 20% increased critical healing" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="All your fire DoT effects and Dream Breath have 20% increased critical damage or healing" vertex="1">
           <mxGeometry height="120" width="200" x="1360" y="300" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Final Spark" vertex="1">
@@ -148,22 +148,22 @@
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.&lt;div&gt;&lt;br&gt;&lt;div&gt;Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1360" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Wildfire&lt;/span&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Seeking Embers" vertex="1">
           <mxGeometry height="40" width="200" x="1580" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Dream Breath ticks have a 5% chance to launch embers to a nearby target, healing them. This prefers low health targets. If no valid target is present they instead hit the original target." vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Enkindle ticks have a 5% chance to launch embers to a nearby target, healing them. This prefers low health targets. If no valid target is present they instead hit the original target." vertex="1">
           <mxGeometry height="120" width="200" x="1580" y="300" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontSize=14;fontStyle=1" value="&lt;span&gt;Stoking the Flames&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="1580" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Hitting targets affected by Dream Breath has a 5% chance to trigger Wildfire. Increased to 10% if the trigger was a red spell" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Hitting targets affected by Enkindle has a 5% chance to trigger Seeking Embers. Increased to 10% if the trigger was Dream Breath or Emerald Blossom" vertex="1">
           <mxGeometry height="120" width="200" x="1580" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;font&gt;Seeking Embers&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Wildfire" vertex="1">
           <mxGeometry height="40" width="200" x="1580" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Wildfire embers spread Enkindles and Dream Breath to the target for the remaining duration" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Seeking Embers trigger Enkindle on the target for 150% of their damage or healing." vertex="1">
           <mxGeometry height="120" width="200" x="1580" y="660" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mastery over Flames&lt;/span&gt;" vertex="1">
