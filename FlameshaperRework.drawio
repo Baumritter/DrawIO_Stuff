@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" version="29.6.3">
   <diagram name="Page-1" id="7-C3C0MTsYJN3mklHAE3">
-    <mxGraphModel dx="1628" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,22 +40,22 @@
         <mxCell id="CbpXHZAzieputpjHQbmu-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting Essence spells grants you 5% Haste for 5s stacking up to 3." vertex="1">
           <mxGeometry height="120" width="200" x="220" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#00FF00);" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Intensifying Flame&lt;/b&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#00FF00);" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Intense Flames&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="220" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting an Empower causes all your Enkindles to deal 100% more damage for the next 6s." vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting an Empower causes all your Enkindles to deal 100% more damage for the next 6s. If this effect is already active then fully extend it instead." vertex="1">
           <mxGeometry height="120" width="200" x="220" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Talent Name&lt;/b&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#00FF00);" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Final Spark&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="440" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="When any of your DoT effects expires it flares up dealing damage to its target. If a target dies with an active DoT it instead explodes dealing damage split between all targets within 8y." vertex="1">
           <mxGeometry height="120" width="200" x="440" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Talent Name&lt;/b&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#00FF00);" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lifebinder&#39;s Expertise&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="440" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="All your red spells deal 15% additional critical damage." vertex="1">
           <mxGeometry height="120" width="200" x="440" y="480" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Life Cinders / &lt;br&gt;Draconic Instincts&lt;/b&gt;" vertex="1">
