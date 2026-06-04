@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0">
   <diagram name="Page-1" id="7-C3C0MTsYJN3mklHAE3">
-    <mxGraphModel dx="1521" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CbpXHZAzieputpjHQbmu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Legacy of the Lifebinder&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFF00);fontStyle=1;fontSize=14;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Legacy of the Lifebinder&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="330" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fire Breath gains an additional charge.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="Your empowers each gain an additional charge." vertex="1">
           <mxGeometry height="120" width="200" x="330" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Burning Adrenaline" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;" value="Empowering Flames" vertex="1">
           <mxGeometry height="40" width="200" x="220" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fire Breath reaches its maximum empower level 20% faster.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Your empower spells deal 20% more damage" vertex="1">
           <mxGeometry height="120" width="200" x="220" y="480" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;font&gt;Trailblazer / Shape of Flame&lt;/font&gt;&lt;/span&gt;" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="CbpXHZAzieputpjHQbmu-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Hover and Deep Breath travel 40% faster. Hover travels 40% further.&lt;div&gt;/&lt;/div&gt;&lt;div&gt;Tail Swipe and Wing Buffet scorch enemies and blind them with ash, causing their next attack within 4 sec to miss.&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fontColor=light-dark(#000000,#FF9933);" value="&lt;span&gt;&lt;span&gt;Conduit of Flame&lt;/span&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fontColor=light-dark(#000000,#FFFF00);" value="&lt;span&gt;&lt;span&gt;Conduit of Flame&lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" y="440" as="geometry" />
         </mxCell>
         <mxCell id="CbpXHZAzieputpjHQbmu-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Increases critical strike chance by up to 15%, based on the current health of your target. Works like Mastery: Giantslayer" vertex="1">
@@ -34,70 +34,70 @@
         <mxCell id="CbpXHZAzieputpjHQbmu-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Living Flame and Azure Strike have 1 extra chance to trigger Essence Burst when they critically strike." vertex="1">
           <mxGeometry height="120" width="200" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Ashes in Motion" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="&lt;span style=&quot;&quot;&gt;Fulminous Roar&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="220" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath&#39;s cooldown is reduced by 5 sec." vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath deals its damage 20% more often." vertex="1">
           <mxGeometry height="120" width="200" x="220" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Deep Exhalation" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="&lt;span style=&quot;&quot;&gt;Life Cinders /&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Draconic Instincts&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="220" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fire Breath&#39;s damage over time lasts 4 sec longer.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.&lt;div&gt;&lt;br&gt;&lt;div&gt;Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="220" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=14;labelBackgroundColor=none;" value="Expanded Lungs" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;labelBackgroundColor=none;" value="Flame Infusion" vertex="1">
           <mxGeometry height="40" width="200" x="440" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath&#39;s damage over time is increased by 30%. Dream Breath&#39;s heal over time is increased by 30%." vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Eternity Surge deals an&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;addtional 20% of its damage as Fire.&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="440" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Fulminous Roar" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="Essence Well" vertex="1">
           <mxGeometry height="40" width="200" x="440" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;Fire Breath deals its damage 20% more often.&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Your empowers have a 50% chance to generate Essence Burst." vertex="1">
           <mxGeometry height="120" width="200" x="440" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Life Cinders / &lt;br&gt;Draconic Instincts&lt;/span&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;" value="Burning Adrenaline" vertex="1">
           <mxGeometry height="40" width="200" x="440" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.&lt;div&gt;&lt;br&gt;&lt;div&gt;Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting Empower spells grants you 5% Haste for 6s." vertex="1">
           <mxGeometry height="120" width="200" x="440" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Essence Well" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="Twin Flame" vertex="1">
           <mxGeometry height="40" width="200" x="660" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fire Breath has a 50% chance to generate Essence Burst.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Consuming Essence Burst fires a twin flame, striking your target for (180% of Spell Power) Fire damage." vertex="1">
           <mxGeometry height="120" width="200" x="660" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontSize=14;fontStyle=1" value="Twin Flame" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontSize=14;fontStyle=1" value="Fire Torrent" vertex="1">
           <mxGeometry height="40" width="200" x="660" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Consuming Essence Burst fires a twin flame, striking your target for (180% of Spell Power) Fire damage.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Twin Flame bounces to up to 2 additional targets." vertex="1">
           <mxGeometry height="120" width="200" x="660" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Fire Torrent" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;" value="Leaping Embers" vertex="1">
           <mxGeometry height="40" width="200" x="660" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;Twin Flame bounces to up to 2 additional targets.&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting an empower launches 2 Twin Flames at enemies within 25yds." vertex="1">
           <mxGeometry height="120" width="200" x="660" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Consume Flame&lt;/span&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Volatile Flames&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="330" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="CbpXHZAzieputpjHQbmu-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Disintegrate damage consumes 1.0 sec of Fire Breath from enemies it damages, detonating it for 150% of the amount consumed.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pyre damage consumes 4 sec of Fire Breath from enemies it damages, detonating it for 115% of the amount consumed.&lt;/div&gt;" vertex="1">
+        <mxCell id="CbpXHZAzieputpjHQbmu-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;" value="Casting your empowers causes all targets hit to flare up dealing (x% of Spell Power) Fire damage to all targets within 8yds." vertex="1">
           <mxGeometry height="160" width="200" x="330" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Legacy of the Lifebinder" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFF00);fontStyle=1;fontSize=14;" value="Legacy of the Lifebinder" vertex="1">
           <mxGeometry height="40" width="200" x="1250" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dream Breath and Fire Breath gain an additional charge.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=0" value="Your empowers each gain an additional charge." vertex="1">
           <mxGeometry height="120" width="200" x="1250" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Burning Adrenaline" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;" value="Empowering Flames" vertex="1">
           <mxGeometry height="40" width="200" x="1140" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fire Breath and Dream Breath reach their maximum empower level 20% faster.&lt;/div&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Your empower spells deal 20% more damage and healing" vertex="1">
           <mxGeometry height="120" width="200" x="1140" y="480" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;&lt;font&gt;Trailblazer / Shape of Flame&lt;/font&gt;&lt;/span&gt;" vertex="1">
@@ -118,58 +118,58 @@
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Living Flame&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;has 1 extra chance to trigger Essence Burst when they critically strike.&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="920" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Ashes in Motion" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="&lt;span style=&quot;&quot;&gt;Fulminous Roar&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="1140" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath&#39;s cooldown is reduced by 5 sec." vertex="1">
           <mxGeometry height="120" width="200" x="1140" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Deep Exhalation" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="&lt;span style=&quot;&quot;&gt;Life Cinders /&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Draconic Instincts&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="1140" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;Fire Breath&#39;s damage over time lasts 4 sec longer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dream Breath&#39;s heal over time lasts 6 sec longer.&lt;/div&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.&lt;div&gt;&lt;br&gt;&lt;div&gt;Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1140" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=14;" value="Expanded Lungs" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;" value="Flame Infusion" vertex="1">
           <mxGeometry height="40" width="200" x="1360" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath&#39;s damage over time is increased by 30%. Dream Breath&#39;s heal over time is increased by 30%." vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Dream Breath heals an&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;addtional 20% of its healing as Fire.&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1360" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Fulminous Roar" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="Essence Well" vertex="1">
           <mxGeometry height="40" width="200" x="1360" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fire Breath and Dream Breath deal their damage and healing 20% more often.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Your empowers have a 50% chance to generate Essence Burst." vertex="1">
           <mxGeometry height="120" width="200" x="1360" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="&lt;span&gt;Life Cinders / &lt;br&gt;Draconic Instincts&lt;/span&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;" value="Burning Adrenaline" vertex="1">
           <mxGeometry height="40" width="200" x="1360" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.&lt;div&gt;&lt;br&gt;&lt;div&gt;Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting Empower spells grants you 5% Haste for 6s." vertex="1">
           <mxGeometry height="120" width="200" x="1360" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Essence Well" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="Twin Flame" vertex="1">
           <mxGeometry height="40" width="200" x="1580" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dream Breath and Fire Breath have a 50% chance to generate Essence Burst.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Consuming Essence Burst fires a twin flame, healing your target for (390% of Spell Power)." vertex="1">
           <mxGeometry height="120" width="200" x="1580" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontSize=14;fontStyle=1" value="Twin Flame" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontSize=14;fontStyle=1" value="Fire Torrent" vertex="1">
           <mxGeometry height="40" width="200" x="1580" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Consuming Essence Burst fires a twin flame, healing your target for (390% of Spell Power)." vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Twin Flame bounces to up to 2 additional targets." vertex="1">
           <mxGeometry height="120" width="200" x="1580" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1;fontSize=14;" value="Fire Torrent" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1;fontSize=14;" value="Leaping Embers" vertex="1">
           <mxGeometry height="40" width="200" x="1580" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Twin Flame bounces to up to 2 additional targets." vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Casting an empower launches 2 Twin Flames at allies within 25yds." vertex="1">
           <mxGeometry height="120" width="200" x="1580" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Consume Flame&lt;/span&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Volatile Flames&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="1250" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;" value="&lt;div&gt;Verdant Embrace healing consumes 4 sec of Dream Breath from allies it heals, detonating it and healing them for 200% of the amount consumed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Emerald Blossom healing consumes 2 sec of Dream Breath from allies it heals, detonating it and healing them for 200% of the amount consumed.&lt;/div&gt;" vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;" value="Casting your empowers causes all targets hit to flare up healing all targets within 25yds for (x% of Spell Power)." vertex="1">
           <mxGeometry height="160" width="200" x="1250" y="840" as="geometry" />
         </mxCell>
       </root>
