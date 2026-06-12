@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0">
   <diagram name="Page-1" id="7-C3C0MTsYJN3mklHAE3">
-    <mxGraphModel dx="1825" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="&lt;span style=&quot;&quot;&gt;Fulminous Roar&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="1140" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath&#39;s cooldown is reduced by 5 sec." vertex="1">
+        <mxCell id="ExkhEfNAmdtYAn1Fs_e5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="Fire Breath deals its damage 20% more often." vertex="1">
           <mxGeometry height="120" width="200" x="1140" y="300" as="geometry" />
         </mxCell>
         <mxCell id="ExkhEfNAmdtYAn1Fs_e5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF9933);fontStyle=1;fontSize=14;" value="&lt;span style=&quot;&quot;&gt;Life Cinders /&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Draconic Instincts&lt;/span&gt;" vertex="1">
