@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0">
   <diagram name="Page-1" id="hOetuab5Neo2MUPY-Vw1">
-    <mxGraphModel dx="2115" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1844" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="OIwntdkwLblrr2rhOdX1-9" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="0f6FQbk-GcDdoWLRAv9r-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0f6FQbk-GcDdoWLRAv9r-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FFFFFF);" value="Power Nexus" vertex="1">
+        <mxCell id="0f6FQbk-GcDdoWLRAv9r-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FF66FF);" value="Power Nexus" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="120" as="geometry" />
         </mxCell>
         <mxCell id="0f6FQbk-GcDdoWLRAv9r-44" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
@@ -95,7 +95,7 @@
         <mxCell id="OIwntdkwLblrr2rhOdX1-10" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="LhPUbgTbJpqGcTxOS-ww-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0f6FQbk-GcDdoWLRAv9r-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FFFFFF);" value="Essence Burst" vertex="1">
+        <mxCell id="0f6FQbk-GcDdoWLRAv9r-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FF66FF);" value="Essence Burst" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="120" as="geometry" />
         </mxCell>
         <mxCell id="0f6FQbk-GcDdoWLRAv9r-67" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
@@ -178,7 +178,7 @@
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Azure Sweep" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000099);strokeWidth=2;" value="?" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF66FF);strokeWidth=2;" value="?" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Ruby Embers" vertex="1">
@@ -275,10 +275,10 @@
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Arcane Intensity" vertex="1">
           <mxGeometry height="40" width="120" x="800" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000099);strokeWidth=2;" value="?" vertex="1">
+        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF66FF);strokeWidth=2;" value="?" vertex="1">
           <mxGeometry height="40" width="120" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000099);strokeWidth=2;" value="?" vertex="1">
+        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF66FF);strokeWidth=2;" value="?" vertex="1">
           <mxGeometry height="40" width="120" x="320" y="600" as="geometry" />
         </mxCell>
         <mxCell id="p8pHNqXcbaAZnEPRJ2cy-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Feed the Flames" vertex="1">
@@ -401,7 +401,7 @@
             <mxPoint x="325" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiERCDpK63vKAhPq4p5G-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#000099);" value="Lay Waste +&lt;br&gt;Onyx Legacy" vertex="1">
+        <mxCell id="BiERCDpK63vKAhPq4p5G-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FF66FF);" value="Lay Waste +&lt;br&gt;Onyx Legacy" vertex="1">
           <mxGeometry height="40" width="120" x="320" y="120" as="geometry" />
         </mxCell>
       </root>
