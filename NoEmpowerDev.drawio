@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0">
   <diagram name="Page-1" id="hOetuab5Neo2MUPY-Vw1">
-    <mxGraphModel dx="2511" dy="1174" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2014" dy="898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OIwntdkwLblrr2rhOdX1-7" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="0f6FQbk-GcDdoWLRAv9r-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0f6FQbk-GcDdoWLRAv9r-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFF00);strokeWidth=2;" value="Pyre" vertex="1">
+        <mxCell id="0f6FQbk-GcDdoWLRAv9r-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Causality" vertex="1">
           <mxGeometry height="40" width="120" x="320" y="40" as="geometry" />
         </mxCell>
         <mxCell id="OIwntdkwLblrr2rhOdX1-9" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="0f6FQbk-GcDdoWLRAv9r-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0f6FQbk-GcDdoWLRAv9r-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FFFFFF);" value="Ruby EB" vertex="1">
+        <mxCell id="0f6FQbk-GcDdoWLRAv9r-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FFFFFF);" value="Power Nexus" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="120" as="geometry" />
         </mxCell>
         <mxCell id="0f6FQbk-GcDdoWLRAv9r-44" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
@@ -78,21 +78,13 @@
         <mxCell id="0f6FQbk-GcDdoWLRAv9r-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#00FF00);" value="Eye of Infinity / &lt;br&gt;Event Horizon" vertex="1">
           <mxGeometry height="40" width="120" x="800" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="0f6FQbk-GcDdoWLRAv9r-60" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-28" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0f6FQbk-GcDdoWLRAv9r-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Star Salvo" vertex="1">
-          <mxGeometry height="40" width="120" x="800" y="600" as="geometry" />
-        </mxCell>
         <mxCell id="OIwntdkwLblrr2rhOdX1-8" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="0f6FQbk-GcDdoWLRAv9r-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OIwntdkwLblrr2rhOdX1-10" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="LhPUbgTbJpqGcTxOS-ww-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0f6FQbk-GcDdoWLRAv9r-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FFFFFF);" value="Azure EB" vertex="1">
+        <mxCell id="0f6FQbk-GcDdoWLRAv9r-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#FFFFFF);" value="Essence Burst" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="120" as="geometry" />
         </mxCell>
         <mxCell id="0f6FQbk-GcDdoWLRAv9r-67" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
@@ -126,14 +118,11 @@
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-43" edge="1" parent="1" source="LhPUbgTbJpqGcTxOS-ww-36" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LhPUbgTbJpqGcTxOS-ww-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Titanic Wrath" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Essence Burn" vertex="1">
           <mxGeometry height="40" width="120" x="320" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Causality" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Empowered Burn" vertex="1">
           <mxGeometry height="40" width="120" x="320" y="760" as="geometry" />
-        </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Scintilations" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="760" as="geometry" />
         </mxCell>
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-52" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
           <mxGeometry relative="1" as="geometry">
@@ -175,7 +164,7 @@
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Azure Sweep" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Power Nexus" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Burnout" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Ruby Embers" vertex="1">
@@ -201,12 +190,7 @@
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Heat Wave" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-109" edge="1" parent="1" source="p8pHNqXcbaAZnEPRJ2cy-3" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LhPUbgTbJpqGcTxOS-ww-105">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="640" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Scorching Embers" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Feed the Flames" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="760" as="geometry" />
         </mxCell>
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-116" edge="1" parent="1" source="LhPUbgTbJpqGcTxOS-ww-105" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LhPUbgTbJpqGcTxOS-ww-94">
@@ -226,7 +210,7 @@
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-117" edge="1" parent="1" source="LhPUbgTbJpqGcTxOS-ww-113" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="p8pHNqXcbaAZnEPRJ2cy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Burnout" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Power Swell" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="600" as="geometry" />
         </mxCell>
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-127" edge="1" parent="1" source="LhPUbgTbJpqGcTxOS-ww-118" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
@@ -251,13 +235,13 @@
             <mxPoint x="44.43396226415098" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Power Swell" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Overflowing Power" vertex="1">
           <mxGeometry height="40" width="120" x="640" y="680" as="geometry" />
         </mxCell>
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Spellweaver&#39;s Dominance" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="LhPUbgTbJpqGcTxOS-ww-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Honed Aggression" vertex="1">
+        <mxCell id="LhPUbgTbJpqGcTxOS-ww-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Focused Power" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="440" as="geometry" />
         </mxCell>
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Eternity&#39;s Span" vertex="1">
@@ -272,34 +256,19 @@
         <mxCell id="LhPUbgTbJpqGcTxOS-ww-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Arcane Intensity" vertex="1">
           <mxGeometry height="40" width="120" x="800" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Lay Waste" vertex="1">
+        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFF00);strokeWidth=2;" value="Pyre" vertex="1">
           <mxGeometry height="40" width="120" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Onyx Legacy" vertex="1">
-          <mxGeometry height="40" width="120" x="320" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Feed the Flames" vertex="1">
-          <mxGeometry height="40" width="120" x="-160" y="600" as="geometry" />
         </mxCell>
         <mxCell id="p8pHNqXcbaAZnEPRJ2cy-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Catalyze" vertex="1">
           <mxGeometry height="40" width="120" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-5" edge="1" parent="1" source="LhPUbgTbJpqGcTxOS-ww-56" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="p8pHNqXcbaAZnEPRJ2cy-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="483" y="491" as="sourcePoint" />
-            <mxPoint x="483" y="531" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="TxbzCKmar1D-l7S8V-Zo-16" edge="1" parent="1" source="p8pHNqXcbaAZnEPRJ2cy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TxbzCKmar1D-l7S8V-Zo-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p8pHNqXcbaAZnEPRJ2cy-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Azure Celerity" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-7" edge="1" parent="1" source="p8pHNqXcbaAZnEPRJ2cy-6" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LhPUbgTbJpqGcTxOS-ww-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="601" y="768" as="sourcePoint" />
-            <mxPoint x="641" y="808" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Font of Magic" vertex="1">
+        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Scorching Embers" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="680" as="geometry" />
         </mxCell>
         <mxCell id="p8pHNqXcbaAZnEPRJ2cy-9" edge="1" parent="1" source="p8pHNqXcbaAZnEPRJ2cy-8" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LhPUbgTbJpqGcTxOS-ww-104">
@@ -332,14 +301,11 @@
             <mxPoint x="466" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Shattering Star" vertex="1">
+        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Shattering Stars" vertex="1">
           <mxGeometry height="40" width="120" x="800" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="p8pHNqXcbaAZnEPRJ2cy-16" edge="1" parent="1" source="p8pHNqXcbaAZnEPRJ2cy-14" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="0f6FQbk-GcDdoWLRAv9r-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1008" y="627" as="sourcePoint" />
-            <mxPoint x="1008" y="667" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="TxbzCKmar1D-l7S8V-Zo-14" edge="1" parent="1" source="p8pHNqXcbaAZnEPRJ2cy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TxbzCKmar1D-l7S8V-Zo-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p8pHNqXcbaAZnEPRJ2cy-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Engulfing Blaze" vertex="1">
           <mxGeometry height="40" width="120" x="-160" y="440" as="geometry" />
@@ -386,20 +352,20 @@
             <mxPoint x="23" y="512" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIwntdkwLblrr2rhOdX1-5" edge="1" parent="1" source="p8pHNqXcbaAZnEPRJ2cy-17" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="p8pHNqXcbaAZnEPRJ2cy-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-28" y="530" as="sourcePoint" />
-            <mxPoint x="-68" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OIwntdkwLblrr2rhOdX1-6" edge="1" parent="1" source="0f6FQbk-GcDdoWLRAv9r-2" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="0f6FQbk-GcDdoWLRAv9r-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="365" y="131" as="sourcePoint" />
             <mxPoint x="325" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxbzCKmar1D-l7S8V-Zo-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-04dce55a-7fff-5782-886b-be5e770488c9&quot;&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:20pt;margin-bottom:6pt;&quot;&gt;&lt;span style=&quot;font-size:20pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Changed Spells&lt;/span&gt;&lt;/h1&gt;&lt;h2 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:18pt;margin-bottom:6pt;&quot;&gt;&lt;span style=&quot;font-size:16pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Fire Breath&lt;/span&gt;&lt;/h2&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;2.5s cast time, 2 charges, 25s cooldown&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Cone AoE spell with diminished scaling above 5 targets&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Combination of instant Fire damage and DoT effect at 25/75 split&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;20s DoT effect&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:18pt;margin-bottom:6pt;&quot;&gt;&lt;span style=&quot;font-size:16pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Eternity Surge&lt;/span&gt;&lt;/h2&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;2.5s cast time, 2 charges, 25s cooldown&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Targetted spell with 3 secondary targets (Total 4 targets)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Spellfrost instant damage&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:18pt;margin-bottom:6pt;&quot;&gt;&lt;span style=&quot;font-size:16pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Deep Breath&lt;/span&gt;&lt;/h2&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Same as Retail but Maneuverability Steering for everyone&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" vertex="1">
+        <mxCell id="TxbzCKmar1D-l7S8V-Zo-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-04dce55a-7fff-5782-886b-be5e770488c9&quot;&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:20pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Changed Spells&lt;/span&gt;&lt;/h1&gt;&lt;h2 dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:16pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Fire Breath&lt;/span&gt;&lt;/h2&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:20pt;margin-bottom:6pt;&quot;&gt;&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-5cf924da-7fff-6333-163e-d55f4cfbe6e9&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;2.5s cast time, 2 charges, 25s cooldown&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Cone AoE spell with diminished scaling above 5 targets&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Combination of instant Fire damage and DoT effect at 25/75 split&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;20s DoT effect&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;&lt;/h1&gt;&lt;h2 dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:16pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Eternity Surge&lt;/span&gt;&lt;/h2&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:20pt;margin-bottom:6pt;&quot;&gt;&lt;b style=&quot;font-weight:normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;2.5s cast time, 2 charges, 25s cooldown&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Targetted spell with 3 secondary targets (Total 4 targets)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Spellfrost instant damage&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;&lt;/h1&gt;&lt;h2 dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:16pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Deep Breath&lt;/span&gt;&lt;/h2&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:20pt;margin-bottom:6pt;&quot;&gt;&lt;span style=&quot;font-weight:normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Same as Retail but Maneuverability Steering for everyone&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h1&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="460" width="495" x="1072" y="39.995789473684276" as="geometry" />
+        </mxCell>
+        <mxCell id="TxbzCKmar1D-l7S8V-Zo-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Sparking Embers" vertex="1">
+          <mxGeometry height="40" width="120" x="-160" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="TxbzCKmar1D-l7S8V-Zo-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="Scintilations" vertex="1">
+          <mxGeometry height="40" width="120" x="480" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
